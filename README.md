@@ -1,7 +1,7 @@
 # 2021-Oct-EdSurvey-Training-Series
 
 - [Course Agenda](
-https://github.com/American-Institutes-for-Research/2021-Oct-EdSurvey-Training-Series/blob/main/00_2021%20EdSurvey%20Large-Scale%20Data%20Analysis%20Training%20Series%20Agenda.docx)
+https://github.com/American-Institutes-for-Research/2021-Oct-EdSurvey-Training-Series/blob/main/2021%20EdSurvey%20Large-Scale%20Data%20Analysis%20Training%20Series%20Agenda%20-%20rev.pdf)
 
 - Course Materials
     - [Day 1](https://github.com/American-Institutes-for-Research/2021-Oct-EdSurvey-Training-Series/tree/main/Day1)
