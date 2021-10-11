@@ -5,7 +5,7 @@ https://github.com/American-Institutes-for-Research/2021-Oct-EdSurvey-Training-S
 
 - Course Materials
     - [Day 1](https://github.com/American-Institutes-for-Research/2021-Oct-EdSurvey-Training-Series/tree/main/Day1)
-    - [Day 2](https://github.com/American-Institutes-for-Research/2021-Oct-EdSurvey-Training-Series/tree/main/Day2) Please right click the "download" function and choose "save link as" to your local folder.
+    - [Day 2](https://github.com/American-Institutes-for-Research/2021-Oct-EdSurvey-Training-Series/tree/main/Day2) To download the html file, right click the "download" function and choose "save link as" to save it to your local folder.
     - Day 3 (To be updated)
     - Day 4 (To be updated)
 
